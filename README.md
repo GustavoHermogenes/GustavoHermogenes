@@ -2,10 +2,6 @@
 
 Hello! I'm Gustavo Hermogenes Silva, I'm 17 years old and passionate about technology. Currently, I'm focused on studying front-end to create interactive and attractive interfaces for websites and applications. I am excited to learn and grow in this ever-evolving field.
 
-<div>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHermogenes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## 🚀SKILLS
 
 <div>
@@ -20,6 +16,10 @@ Hello! I'm Gustavo Hermogenes Silva, I'm 17 years old and passionate about techn
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
+
+<div> 
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHermogenes&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 ## 📱CONTACT
