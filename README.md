@@ -1,6 +1,13 @@
-### Hi! I'm Gustavo Hermogenes Silva 👋
+👋 Olá, eu sou Gustavo Hermogenes!
+💻 Desenvolvedor Back-end apaixonado por tecnologia e inovação.
+🚀 Sempre em busca de aprimorar minhas habilidades para criar soluções eficientes e escaláveis.
+🔹 Experiência com Laravel, PHP, MySQL, Bootstrap, HTML e CSS.
+🎯 Foco no desenvolvimento back-end, com interesse em arquitetura de software, APIs e banco de dados.
+📚 Cursando Ciência da Computação na Anhembi Morumbi e expandindo meus conhecimentos em Java.
 
-Hello! I'm Gustavo Hermogenes Silva, I'm 17 years old and passionate about technology. Currently, I'm focused on studying front-end to create interactive and attractive interfaces for websites and applications. I am excited to learn and grow in this ever-evolving field.
+💡 "Código limpo, escalável e eficiente: esse é o meu objetivo!"
+
+📩 Aberto a oportunidades e colaborações! Vamos conversar?
 
 ## 🚀SKILLS
 
