@@ -5,7 +5,7 @@
 🎯 Foco no desenvolvimento back-end, com interesse em arquitetura de software, APIs e banco de dados.
 📚 Cursando Ciência da Computação na Anhembi Morumbi e expandindo meus conhecimentos em Java.
 
-💡 "Código limpo, escalável e eficiente: esse é o meu objetivo!"
+💡 Código limpo, escalável e eficiente: esse é o meu objetivo!
 
 📩 Aberto a oportunidades e colaborações! Vamos conversar?
 
@@ -20,6 +20,7 @@
   <img style="margin-bottom: 10px; align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img style="margin-bottom: 10px; align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img style="margin-bottom: 10px; align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img style="margin-bottom: 10px; align="center" alt="Java" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=java&logoColor=white"/>
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
