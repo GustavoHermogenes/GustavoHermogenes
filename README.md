@@ -12,8 +12,7 @@
   <a href="https://www.linkedin.com/in/gustavo-hermogenes-709691271/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0UzMEYwMCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
   <a href="https://wa.me/5511947396478" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=E30F00" alt="WhatsApp"/></a>
   <a href="https://instagram.com/guustavo_hermogenes" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E30F00" alt="Instagram"/></a>
-  <a href="https://github.com/GustavoHermogenes" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E30F00" alt="GitHub"/></a>
-</p>
+ </p>
 
 ---
 
@@ -22,8 +21,6 @@
 Sou desenvolvedor **Full Stack** e estudante de **Ciência da Computação** na Anhembi Morumbi. No back-end, trabalho principalmente com **PHP e Laravel**, usando **MySQL** para modelagem e persistência de dados. No front-end, construo interfaces com **HTML, CSS, JavaScript e Bootstrap**, e também desenvolvo aplicações mobile com **React Native**.
 
 Tenho interesse especial em **arquitetura de software, design de APIs e banco de dados**, e venho expandindo meus conhecimentos em **Java**. Busco sempre entregar soluções eficientes e escaláveis, e estou aberto a novas oportunidades e colaborações.
-
-> **Código limpo, escalável e eficiente: esse é o meu objetivo.**
 
 ---
 
@@ -63,14 +60,9 @@ Tenho interesse especial em **arquitetura de software, design de APIs e banco de
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/gustavo-hermogenes-709691271/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E30F00?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/gustavohermogenes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E30F00?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a></td>
     <td align="center"><a href="https://wa.me/5511947396478" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-E30F00?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></td>
-    <td align="center"><a href="https://instagram.com/guustavo_hermogenes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E30F00?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>gustavo-hermogenes</sub></td>
-    <td align="center"><sub>+55 11 94739-6478</sub></td>
-    <td align="center"><sub>@guustavo_hermogenes</sub></td>
+    <td align="center"><a href="https://instagram.com/guhermogenes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E30F00?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
   </tr>
 </table>
 
