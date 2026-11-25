@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-%20-E30F00?style=flat-square" height="10" align="center"/> Sobre mim
+## <img src="https://img.shields.io/badge/-%20-E30F00?style=flat-square" height="15" align="absmiddle"/> Sobre mim
 
 Sou desenvolvedor **Full Stack** e estudante de **Ciência da Computação** na Anhembi Morumbi. No back-end, trabalho principalmente com **PHP e Laravel**, usando **MySQL** para modelagem e persistência de dados. No front-end, construo interfaces com **HTML, CSS, JavaScript e Bootstrap**, e também desenvolvo aplicações mobile com **React Native**.
 
@@ -24,7 +24,7 @@ Tenho interesse especial em **arquitetura de software, design de APIs e banco de
 
 ---
 
-## <img src="https://img.shields.io/badge/-%20-E30F00?style=flat-square" height="10" align="center"/> Stack
+## <img src="https://img.shields.io/badge/-%20-E30F00?style=flat-square" height="15" align="absmiddle"/> Stack
 
 <p align="center">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -43,7 +43,7 @@ Tenho interesse especial em **arquitetura de software, design de APIs e banco de
 
 ---
 
-## <img src="https://img.shields.io/badge/-%20-E30F00?style=flat-square" height="10" align="center"/> GitHub Stats
+## <img src="https://img.shields.io/badge/-%20-E30F00?style=flat-square" height="15" align="absmiddle"/> GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoHermogenes&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E30F00&icon_color=E30F00&text_color=C9C9C9&ring_color=E30F00" alt="GitHub Stats"/>
@@ -52,7 +52,7 @@ Tenho interesse especial em **arquitetura de software, design de APIs e banco de
 
 ---
 
-## <img src="https://img.shields.io/badge/-%20-E30F00?style=flat-square" height="10" align="center"/> Contato
+## <img src="https://img.shields.io/badge/-%20-E30F00?style=flat-square" height="15" align="absmiddle"/> Contato
 
 <p align="center">
   📩 <b>Aberto a oportunidades e colaborações — vamos conversar?</b>
