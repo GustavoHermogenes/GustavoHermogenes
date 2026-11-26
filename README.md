@@ -18,9 +18,13 @@
 
 ## <img src="https://img.shields.io/badge/-%20-E30F00?style=flat-square" height="15" align="absmiddle"/> Sobre mim
 
-Sou desenvolvedor **Full Stack** e estudante de **Ciência da Computação** na Anhembi Morumbi. No back-end, trabalho principalmente com **PHP e Laravel**, usando **MySQL** para modelagem e persistência de dados. No front-end, construo interfaces com **HTML, CSS, JavaScript e Bootstrap**, e também desenvolvo aplicações mobile com **React Native**.
+Sou estudante de Ciência da Computação pela Universidade Anhembi Morumbi e atuo como desenvolvedor Full Stack. Embora possua experiência em desenvolvimento tanto no front-end quanto no back-end, minha principal área de interesse e especialização é o desenvolvimento back-end.
 
-Tenho interesse especial em **arquitetura de software, design de APIs e banco de dados**, e venho expandindo meus conhecimentos em **Java**. Busco sempre entregar soluções eficientes e escaláveis, e estou aberto a novas oportunidades e colaborações.
+Tenho experiência com linguagens como Python, Java e PHP, além de frameworks como Spring Boot e Laravel, utilizados no desenvolvimento de aplicações escaláveis e de alta performance. Também possuo conhecimentos na área de bancos de dados, trabalhando com MySQL, SQL e outras tecnologias relacionais para modelagem, consulta e gerenciamento de dados.
+
+Atualmente, busco aprofundar meus conhecimentos em Inteligência Artificial, desenvolvimento com Python e engenharia de dados, com o objetivo de expandir minhas competências técnicas e acompanhar as transformações tecnológicas que vêm impactando o mercado.
+
+Sou motivado por desafios, aprendizado contínuo e pela oportunidade de desenvolver soluções que gerem valor real para usuários e organizações, sempre buscando evoluir tanto tecnicamente quanto profissionalmente.
 
 ---
 
